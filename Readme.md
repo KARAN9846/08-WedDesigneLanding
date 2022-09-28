@@ -34,9 +34,9 @@ This project taught me how to choose a card type animated design, how to add sma
 ## Screenshot 
 
 
-[Live Link](https://sweet-entremet-09e3fc.netlify.app/)
+[Live Link](https://stalwart-mermaid-058b04.netlify.app/)
 
-![What's Trend In](./Capture.PNG)
+![What's Trend In](./thumbnail.png)
 
 ---
 
